@@ -1,9 +1,5 @@
 # React-FirebaseUi Authentication Google, Facebook, Twitter, Github, Email
 
-## Youtube Video
-
-[![Youtube Video](http://img.youtube.com/vi/zq0TuNqV0Ew/0.jpg)](http://www.youtube.com/watch?v=zq0TuNqV0Ew)
-
 ## Start Project
 
 1.  Clone project
